@@ -1,4 +1,4 @@
-#Sat Nov 05 13:13:24 CDT 2022
-base.0=/home/shin/IdeaProjects/testing/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat Nov 05 13:19:04 CDT 2022
+base.0=/home/shin/Documents/github/huskiehackproject/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

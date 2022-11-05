@@ -1,1 +1,0 @@
-/home/shin/Documents/github/huskiehackproject/android/app/src/main/kotlin/com/example/testing/MainActivity.kt
