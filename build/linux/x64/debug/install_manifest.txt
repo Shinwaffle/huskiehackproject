@@ -1,0 +1,11 @@
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/testing
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/shin/IdeaProjects/testing/build/linux/x64/debug/bundle/data/flutter_assets/version.json
